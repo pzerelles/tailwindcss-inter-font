@@ -1,0 +1,15 @@
+{
+  "name": "@pzerelles/tailwindcss-inter-font",
+  "version": "4.1.0",
+  "type": "module",
+  "exports": {
+    ".": "./inter.css"
+  },
+  "files": [
+    "inter.css",
+    "fonts"
+  ],
+  "peerDependencies": {
+    "tailwindcss": "^4.0.0"
+  }
+}
